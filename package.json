@@ -3,6 +3,17 @@
   "displayName": "choiheza-mk-scorpion-dark",
   "description": "mk scorpion dark mode theme by choiheza",
   "version": "0.0.1",
+  "publisher" : "Heather Forde",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ChoiHeza/choiheza-mk-scorpion-dark"
+  },
+  "keywords": [
+    "dark theme",
+    "scorpion theme",
+    "choiheza",
+    "yellow and red theme"
+  ]
   "engines": {
     "vscode": "^1.82.0"
   },
