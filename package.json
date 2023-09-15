@@ -1,0 +1,21 @@
+{
+  "name": "choiheza-mk-scorpion-dark",
+  "displayName": "choiheza-mk-scorpion-dark",
+  "description": "mk scorpion dark mode theme by choiheza",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "choiheza-mk-scorpion-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/choiheza-mk-scorpion-dark-color-theme.json"
+      }
+    ]
+  }
+}
